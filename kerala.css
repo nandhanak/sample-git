@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+
+}
+
+
+
+
+.hello{
+
+
+
+    display: flex;
+  
+}
+.col-8{
+    width: 300px;
+  height: 100%;
+}
+.col-4{
+   width: 1000px;
+    background-attachment:scroll;
+    
+    
+}
+.h{
+    background-color: aquamarine;
+    padding-right:300px;
+    padding-bottom: 70px;
+}
+b{
+ justify-content: center;
+    margin-top: 10px;
+ display: flex;
+}
+   
+.card{
+    margin-top: 20px;
+}
+span{
+    color: rgb(2, 26, 2);
+    font-weight: bold;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+h3{
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+}
+a{
+    display: grid;
+    margin-left: 15px;
+    border-color: black;
+    font-weight:bold;
+}
+.contain{
+    display: flex;
+    justify-content: space-around;
+}
+.con{
+    display: flex;
+    justify-content: space-around;
+    color: black;
+}
+.col-4{
+    background-image: url(WhatsApp\ .jpg);
+    width: 76vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+   
+}
+.bot{
+    display: flex;
+    justify-content: right;
+    margin: 15px;
+    padding: 5px;
+    border-radius: 44px;
+    font-size: small;
+
+
+
+
+}.a{
+    margin-left: 10px;
+    border-radius: 15px;
+}
+.b{
+    border-radius: 15px;
+}
+.bb{
+    background-color: rgb(105, 77, 126);
+    margin-left:300px;
+    margin-right: 300px;
+    margin-top: 50px;
+    font-weight: 400;
+    padding: 30px;
+    
+}
+.log{
+    margin:50px;
+    width: 500px;
+    height: 200px;
+    background-color: darkslategray;
+    padding: 30px;
+}
+.form{
+    display: flex;
+    justify-content: left;
+}
+.mb-4{
+    background-color: dimgrey;
+    width: 500px;
+    margin: 50px;
+    padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
